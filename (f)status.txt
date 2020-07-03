@@ -1,0 +1,38 @@
+$ git status
+On branch hosotani/mypage_460_202007_自動判定API_initial
+Your branch is behind 'origin/mypage_460_202007' by 26 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app/Http/Controllers/TaskManageController.php
+        modified:   app/Http/Controllers/task/EnterCompanyController.php
+        modified:   app/Http/Requests/task/EnterCompanyRequest.php
+        modified:   app/Http/routes.php
+        modified:   app/Models/TempEmployee.php
+        modified:   app/Repositories/TaskManageRepository.php
+        modified:   app/Repositories/task/EnterCompanyRepository.php
+        modified:   app/Utilities/TaskUtils.php
+        modified:   public/js/enter-company/partner.js
+        modified:   public/js/task-manage.js
+        modified:   resources/views/task/enter-company/partner.blade.php
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        app/Repositories/task/EnterCompanyRepository.php.bk.php
+        app/Repositories/task/EnterCompanyRepository.php.bk2.php
+        app/Repositories/task/EnterCompanyRepository.php.bk3.php
+        app/Repositories/task/EnterCompanyRepository.php.bk4.php
+        app/Repositories/task/EnterCompanyRepository.php.bk5.irekaemae.php
+        app/Repositories/task/EnterCompanyRepository.php.bk6.irekaeAto.php
+        app/Utilities/TaskUtils.php.bk.php
+        app/Utilities/TaskUtils.php.bk2.php
+        app/Utilities/TaskUtils.php.bk3.php
+        app/Utilities/TaskUtils.php.bk4.php
+        create_form/39881.1ec13723174b312b0e2f662d462d2f2f.pdf
+        create_form/39881.9995c302e16662e5da3a340af4dd9653.pdf
+        create_form/39881.f7b2d48272817a86f4d78ff72fd437e9.pdf
+        resources/(f)views.7z.tmp
+
+no changes added to commit (use "git add" and/or "git commit -a")
